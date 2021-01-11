@@ -1,2 +1,3 @@
 Fix edge case
 Update API endpoint
+Improve error handling
