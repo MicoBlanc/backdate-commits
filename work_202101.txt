@@ -3,3 +3,4 @@ Update API endpoint
 Improve error handling
 Update dependencies
 Add new feature
+Fix typo
