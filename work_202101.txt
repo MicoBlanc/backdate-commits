@@ -4,3 +4,4 @@ Improve error handling
 Update dependencies
 Add new feature
 Fix typo
+Refactor database queries
