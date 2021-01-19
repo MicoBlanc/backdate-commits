@@ -5,3 +5,4 @@ Update dependencies
 Add new feature
 Fix typo
 Refactor database queries
+Improve performance
