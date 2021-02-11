@@ -2,3 +2,4 @@ Fix bug in authentication
 Update dependencies
 Fix edge case
 Update configuration
+Fix edge case
