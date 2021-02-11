@@ -3,3 +3,4 @@ Update dependencies
 Fix edge case
 Update configuration
 Fix edge case
+Fix typo
