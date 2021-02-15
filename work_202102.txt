@@ -5,3 +5,4 @@ Update configuration
 Fix edge case
 Fix typo
 Fix bug in authentication
+Add logging
