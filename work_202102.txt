@@ -4,3 +4,4 @@ Fix edge case
 Update configuration
 Fix edge case
 Fix typo
+Fix bug in authentication
