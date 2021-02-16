@@ -6,3 +6,4 @@ Fix edge case
 Fix typo
 Fix bug in authentication
 Add logging
+Fix bug in authentication
