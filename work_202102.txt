@@ -9,3 +9,4 @@ Add logging
 Fix bug in authentication
 Add tests
 Clean up code
+Fix bug in authentication
