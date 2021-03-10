@@ -2,3 +2,4 @@ Update dependencies
 Fix typo
 Add new feature
 Add new feature
+Refactor database queries
