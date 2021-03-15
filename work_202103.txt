@@ -5,3 +5,4 @@ Add new feature
 Refactor database queries
 Clean up code
 Update configuration
+Update API endpoint
