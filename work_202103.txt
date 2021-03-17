@@ -8,3 +8,4 @@ Update configuration
 Update API endpoint
 Optimize algorithm
 Optimize algorithm
+Refactor database queries
