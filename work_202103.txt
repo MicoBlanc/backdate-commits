@@ -14,3 +14,4 @@ Fix bug in authentication
 Add logging
 Improve performance
 Update documentation
+Fix bug in authentication
