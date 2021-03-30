@@ -13,3 +13,4 @@ Improve error handling
 Fix bug in authentication
 Add logging
 Improve performance
+Update documentation
