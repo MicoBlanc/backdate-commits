@@ -6,3 +6,4 @@ Fix edge case
 Update configuration
 Update configuration
 Add tests
+Update configuration
