@@ -3,3 +3,4 @@ Improve performance
 Fix bug in authentication
 Improve error handling
 Fix edge case
+Update configuration
