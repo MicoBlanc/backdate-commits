@@ -2,3 +2,4 @@ Improve performance
 Clean up code
 Update dependencies
 Update API endpoint
+Fix typo
