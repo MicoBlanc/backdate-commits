@@ -4,3 +4,4 @@ Update dependencies
 Update API endpoint
 Fix typo
 Clean up code
+Add tests
