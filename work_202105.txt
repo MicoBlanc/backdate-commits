@@ -5,3 +5,4 @@ Update API endpoint
 Fix typo
 Clean up code
 Add tests
+Improve error handling
