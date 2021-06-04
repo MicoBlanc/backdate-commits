@@ -1,2 +1,3 @@
 Refactor database queries
 Fix edge case
+Update configuration
