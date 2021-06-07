@@ -3,3 +3,4 @@ Fix edge case
 Update configuration
 Improve performance
 Update API endpoint
+Improve error handling
