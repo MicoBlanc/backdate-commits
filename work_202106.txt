@@ -6,3 +6,4 @@ Update API endpoint
 Improve error handling
 Fix typo
 Update configuration
+Improve error handling
