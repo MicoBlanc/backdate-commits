@@ -1,1 +1,2 @@
 Refactor database queries
+Fix bug in authentication
