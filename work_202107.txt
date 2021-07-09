@@ -2,3 +2,4 @@ Refactor database queries
 Fix bug in authentication
 Update configuration
 Fix bug in authentication
+Update API endpoint
