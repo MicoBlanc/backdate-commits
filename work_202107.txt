@@ -3,3 +3,4 @@ Fix bug in authentication
 Update configuration
 Fix bug in authentication
 Update API endpoint
+Improve error handling
