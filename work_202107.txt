@@ -7,3 +7,4 @@ Improve error handling
 Update dependencies
 Update documentation
 Fix edge case
+Update configuration
