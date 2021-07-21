@@ -8,3 +8,4 @@ Update dependencies
 Update documentation
 Fix edge case
 Update configuration
+Update API endpoint
