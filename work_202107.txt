@@ -9,3 +9,4 @@ Update documentation
 Fix edge case
 Update configuration
 Update API endpoint
+Fix bug in authentication
