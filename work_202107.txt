@@ -10,3 +10,4 @@ Fix edge case
 Update configuration
 Update API endpoint
 Fix bug in authentication
+Fix bug in authentication
