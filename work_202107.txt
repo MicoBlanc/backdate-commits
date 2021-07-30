@@ -12,3 +12,4 @@ Update API endpoint
 Fix bug in authentication
 Fix bug in authentication
 Add tests
+Clean up code
