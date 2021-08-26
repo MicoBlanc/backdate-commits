@@ -2,3 +2,4 @@ Add tests
 Add logging
 Fix bug in authentication
 Improve performance
+Update API endpoint
