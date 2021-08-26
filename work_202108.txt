@@ -3,3 +3,4 @@ Add logging
 Fix bug in authentication
 Improve performance
 Update API endpoint
+Clean up code
