@@ -1,2 +1,3 @@
 Update documentation
 Refactor database queries
+Improve error handling
