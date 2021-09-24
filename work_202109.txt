@@ -3,3 +3,4 @@ Refactor database queries
 Improve error handling
 Refactor database queries
 Add tests
+Improve error handling
