@@ -5,3 +5,4 @@ Refactor database queries
 Add tests
 Improve error handling
 Update API endpoint
+Fix typo
