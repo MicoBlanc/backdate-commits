@@ -3,3 +3,4 @@ Fix typo
 Update configuration
 Refactor database queries
 Update configuration
+Update dependencies
