@@ -5,3 +5,4 @@ Refactor database queries
 Update configuration
 Update dependencies
 Update documentation
+Fix bug in authentication
