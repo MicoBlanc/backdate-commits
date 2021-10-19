@@ -8,3 +8,4 @@ Update documentation
 Fix bug in authentication
 Fix typo
 Fix typo
+Add logging
