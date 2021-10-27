@@ -11,3 +11,4 @@ Fix typo
 Add logging
 Refactor database queries
 Fix typo
+Add logging
