@@ -12,3 +12,4 @@ Add logging
 Refactor database queries
 Fix typo
 Add logging
+Add new feature
