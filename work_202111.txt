@@ -1,3 +1,4 @@
 Fix edge case
 Refactor database queries
 Add tests
+Update documentation
