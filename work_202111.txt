@@ -3,3 +3,4 @@ Refactor database queries
 Add tests
 Update documentation
 Add tests
+Add new feature
