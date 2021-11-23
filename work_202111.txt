@@ -7,3 +7,4 @@ Add new feature
 Update dependencies
 Update API endpoint
 Improve performance
+Add tests
