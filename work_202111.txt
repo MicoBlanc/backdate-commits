@@ -8,3 +8,4 @@ Update dependencies
 Update API endpoint
 Improve performance
 Add tests
+Add logging
