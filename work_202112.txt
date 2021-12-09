@@ -2,3 +2,4 @@ Add logging
 Fix bug in authentication
 Improve error handling
 Fix edge case
+Clean up code
