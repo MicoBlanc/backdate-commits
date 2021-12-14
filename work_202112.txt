@@ -6,3 +6,4 @@ Clean up code
 Add logging
 Fix typo
 Fix typo
+Refactor database queries
