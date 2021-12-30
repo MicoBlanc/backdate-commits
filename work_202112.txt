@@ -11,3 +11,4 @@ Fix edge case
 Update configuration
 Update documentation
 Add new feature
+Refactor database queries
