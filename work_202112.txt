@@ -12,3 +12,4 @@ Update configuration
 Update documentation
 Add new feature
 Refactor database queries
+Fix bug in authentication
