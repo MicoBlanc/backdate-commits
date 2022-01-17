@@ -1,3 +1,4 @@
 Clean up code
 Fix typo
 Add logging
+Update dependencies
