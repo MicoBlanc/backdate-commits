@@ -3,3 +3,4 @@ Fix typo
 Add logging
 Update dependencies
 Clean up code
+Fix typo
