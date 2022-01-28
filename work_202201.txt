@@ -12,3 +12,4 @@ Update configuration
 Add new feature
 Update documentation
 Add new feature
+Fix bug in authentication
