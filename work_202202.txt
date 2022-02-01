@@ -9,3 +9,4 @@ Improve error handling
 Improve error handling
 Add tests
 Add logging
+Add new feature
