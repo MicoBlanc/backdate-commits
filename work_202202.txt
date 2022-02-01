@@ -10,3 +10,4 @@ Improve error handling
 Add tests
 Add logging
 Add new feature
+Update configuration
