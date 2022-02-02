@@ -11,3 +11,4 @@ Add tests
 Add logging
 Add new feature
 Update configuration
+Improve error handling
