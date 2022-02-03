@@ -13,3 +13,4 @@ Add new feature
 Update configuration
 Improve error handling
 Improve performance
+Fix edge case
