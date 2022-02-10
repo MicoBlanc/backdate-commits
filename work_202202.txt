@@ -15,3 +15,4 @@ Improve error handling
 Improve performance
 Fix edge case
 Add new feature
+Add logging
