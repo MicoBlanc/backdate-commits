@@ -2,3 +2,4 @@ Fix edge case
 Update API endpoint
 Add new feature
 Fix typo
+Improve error handling
