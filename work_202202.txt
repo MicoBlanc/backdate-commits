@@ -17,3 +17,4 @@ Fix edge case
 Add new feature
 Add logging
 Improve error handling
+Add tests
