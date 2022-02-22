@@ -18,3 +18,4 @@ Add new feature
 Add logging
 Improve error handling
 Add tests
+Fix bug in authentication
