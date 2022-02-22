@@ -4,3 +4,4 @@ Add new feature
 Fix typo
 Improve error handling
 Update documentation
+Add logging
