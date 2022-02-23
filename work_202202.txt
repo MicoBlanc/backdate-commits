@@ -19,3 +19,4 @@ Add logging
 Improve error handling
 Add tests
 Fix bug in authentication
+Add tests
