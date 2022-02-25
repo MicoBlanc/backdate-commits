@@ -5,3 +5,4 @@ Fix typo
 Improve error handling
 Update documentation
 Add logging
+Improve error handling
