@@ -7,3 +7,4 @@ Update documentation
 Add logging
 Improve error handling
 Improve error handling
+Add tests
