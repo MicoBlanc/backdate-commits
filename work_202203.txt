@@ -12,3 +12,4 @@ Fix bug in authentication
 Improve error handling
 Fix typo
 Update documentation
+Fix edge case
