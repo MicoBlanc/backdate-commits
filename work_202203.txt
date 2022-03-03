@@ -13,3 +13,4 @@ Improve error handling
 Fix typo
 Update documentation
 Fix edge case
+Fix typo
