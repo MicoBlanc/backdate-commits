@@ -14,3 +14,4 @@ Fix typo
 Update documentation
 Fix edge case
 Fix typo
+Fix bug in authentication
