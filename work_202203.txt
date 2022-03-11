@@ -1,2 +1,3 @@
 Update documentation
 Fix typo
+Improve error handling
