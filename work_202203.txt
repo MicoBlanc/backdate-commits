@@ -2,3 +2,4 @@ Update documentation
 Fix typo
 Improve error handling
 Update configuration
+Improve error handling
