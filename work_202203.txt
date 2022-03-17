@@ -16,3 +16,4 @@ Fix edge case
 Fix typo
 Fix bug in authentication
 Add tests
+Add logging
