@@ -8,3 +8,4 @@ Update documentation
 Add new feature
 Optimize algorithm
 Improve performance
+Fix bug in authentication
