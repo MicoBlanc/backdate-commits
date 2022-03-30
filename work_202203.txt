@@ -9,3 +9,4 @@ Add new feature
 Optimize algorithm
 Improve performance
 Fix bug in authentication
+Improve error handling
