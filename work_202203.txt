@@ -18,3 +18,4 @@ Fix bug in authentication
 Add tests
 Add logging
 Fix typo
+Fix edge case
