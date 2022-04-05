@@ -12,3 +12,4 @@ Optimize algorithm
 Update dependencies
 Refactor database queries
 Optimize algorithm
+Update documentation
