@@ -1,3 +1,4 @@
 Fix bug in authentication
 Fix edge case
 Add new feature
+Update documentation
