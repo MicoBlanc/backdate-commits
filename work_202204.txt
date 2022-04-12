@@ -15,3 +15,4 @@ Optimize algorithm
 Update documentation
 Update configuration
 Fix bug in authentication
+Add new feature
