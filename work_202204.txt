@@ -3,3 +3,4 @@ Fix edge case
 Add new feature
 Update documentation
 Add new feature
+Update documentation
