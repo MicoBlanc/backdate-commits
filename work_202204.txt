@@ -18,3 +18,4 @@ Fix bug in authentication
 Add new feature
 Add logging
 Update dependencies
+Refactor database queries
