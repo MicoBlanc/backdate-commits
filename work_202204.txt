@@ -5,3 +5,4 @@ Update documentation
 Add new feature
 Update documentation
 Fix typo
+Clean up code
