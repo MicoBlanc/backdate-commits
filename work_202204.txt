@@ -21,3 +21,4 @@ Update dependencies
 Refactor database queries
 Update API endpoint
 Clean up code
+Update documentation
