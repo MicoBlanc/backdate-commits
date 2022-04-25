@@ -19,3 +19,4 @@ Add new feature
 Add logging
 Update dependencies
 Refactor database queries
+Update API endpoint
