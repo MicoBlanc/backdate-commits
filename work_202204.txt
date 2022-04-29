@@ -9,3 +9,4 @@ Clean up code
 Optimize algorithm
 Add logging
 Optimize algorithm
+Update dependencies
