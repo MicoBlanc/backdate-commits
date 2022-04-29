@@ -10,3 +10,4 @@ Optimize algorithm
 Add logging
 Optimize algorithm
 Update dependencies
+Refactor database queries
