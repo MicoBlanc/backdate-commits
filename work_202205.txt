@@ -13,3 +13,4 @@ Add tests
 Add tests
 Add logging
 Improve error handling
+Fix bug in authentication
