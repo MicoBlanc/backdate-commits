@@ -1,2 +1,3 @@
 Optimize algorithm
 Optimize algorithm
+Fix bug in authentication
