@@ -16,3 +16,4 @@ Improve error handling
 Fix bug in authentication
 Clean up code
 Add logging
+Fix typo
