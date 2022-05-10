@@ -2,3 +2,4 @@ Optimize algorithm
 Optimize algorithm
 Fix bug in authentication
 Fix bug in authentication
+Add logging
