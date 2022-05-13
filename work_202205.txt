@@ -18,3 +18,4 @@ Clean up code
 Add logging
 Fix typo
 Fix bug in authentication
+Add tests
