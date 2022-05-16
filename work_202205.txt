@@ -20,3 +20,4 @@ Fix typo
 Fix bug in authentication
 Add tests
 Update API endpoint
+Improve performance
