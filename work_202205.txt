@@ -22,3 +22,4 @@ Add tests
 Update API endpoint
 Improve performance
 Refactor database queries
+Update configuration
