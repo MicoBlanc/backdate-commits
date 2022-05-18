@@ -25,3 +25,4 @@ Refactor database queries
 Update configuration
 Fix typo
 Update dependencies
+Add tests
