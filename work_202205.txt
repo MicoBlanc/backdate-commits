@@ -26,3 +26,4 @@ Update configuration
 Fix typo
 Update dependencies
 Add tests
+Improve performance
