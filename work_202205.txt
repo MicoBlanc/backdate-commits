@@ -6,3 +6,4 @@ Add logging
 Update documentation
 Update documentation
 Add logging
+Fix typo
