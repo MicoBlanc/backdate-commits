@@ -28,3 +28,4 @@ Update dependencies
 Add tests
 Improve performance
 Add logging
+Fix typo
