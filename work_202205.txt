@@ -9,3 +9,4 @@ Add logging
 Fix typo
 Update dependencies
 Fix typo
+Add tests
