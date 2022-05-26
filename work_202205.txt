@@ -33,3 +33,4 @@ Fix bug in authentication
 Fix edge case
 Update API endpoint
 Fix typo
+Update API endpoint
