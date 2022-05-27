@@ -11,3 +11,4 @@ Update dependencies
 Fix typo
 Add tests
 Add tests
+Add logging
