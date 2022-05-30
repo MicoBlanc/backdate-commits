@@ -35,3 +35,4 @@ Update API endpoint
 Fix typo
 Update API endpoint
 Fix edge case
+Add logging
