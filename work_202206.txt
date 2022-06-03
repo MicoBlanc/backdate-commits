@@ -13,3 +13,4 @@ Add logging
 Add logging
 Update documentation
 Refactor database queries
+Fix bug in authentication
