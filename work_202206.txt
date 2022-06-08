@@ -3,3 +3,4 @@ Update configuration
 Optimize algorithm
 Update API endpoint
 Add tests
+Update dependencies
