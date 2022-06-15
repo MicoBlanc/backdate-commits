@@ -6,3 +6,4 @@ Add tests
 Update dependencies
 Improve error handling
 Add new feature
+Add new feature
