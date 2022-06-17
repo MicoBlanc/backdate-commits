@@ -9,3 +9,4 @@ Add new feature
 Add new feature
 Add tests
 Fix edge case
+Add logging
