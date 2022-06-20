@@ -17,3 +17,4 @@ Fix bug in authentication
 Update configuration
 Update configuration
 Fix typo
+Update documentation
