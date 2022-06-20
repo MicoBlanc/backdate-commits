@@ -18,3 +18,4 @@ Update configuration
 Update configuration
 Fix typo
 Update documentation
+Clean up code
