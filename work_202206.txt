@@ -22,3 +22,4 @@ Clean up code
 Fix typo
 Fix edge case
 Improve error handling
+Add tests
