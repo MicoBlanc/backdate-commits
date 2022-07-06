@@ -7,3 +7,4 @@ Add tests
 Update documentation
 Update API endpoint
 Fix typo
+Refactor database queries
