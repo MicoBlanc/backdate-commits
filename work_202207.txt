@@ -5,3 +5,4 @@ Update configuration
 Fix typo
 Add tests
 Update documentation
+Update API endpoint
