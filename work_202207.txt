@@ -8,3 +8,4 @@ Update documentation
 Update API endpoint
 Fix typo
 Refactor database queries
+Update documentation
