@@ -9,3 +9,4 @@ Update API endpoint
 Fix typo
 Refactor database queries
 Update documentation
+Clean up code
