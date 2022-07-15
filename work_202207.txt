@@ -1,3 +1,4 @@
 Fix typo
 Improve error handling
 Update dependencies
+Update configuration
