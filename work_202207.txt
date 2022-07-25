@@ -3,3 +3,4 @@ Improve error handling
 Update dependencies
 Update configuration
 Fix typo
+Add tests
