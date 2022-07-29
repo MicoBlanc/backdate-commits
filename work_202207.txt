@@ -12,3 +12,4 @@ Update documentation
 Clean up code
 Optimize algorithm
 Update API endpoint
+Improve performance
