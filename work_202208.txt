@@ -13,3 +13,4 @@ Optimize algorithm
 Improve error handling
 Improve performance
 Optimize algorithm
+Add logging
