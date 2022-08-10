@@ -14,3 +14,4 @@ Improve error handling
 Improve performance
 Optimize algorithm
 Add logging
+Update documentation
