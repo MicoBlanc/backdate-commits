@@ -17,3 +17,4 @@ Add logging
 Update documentation
 Clean up code
 Refactor database queries
+Optimize algorithm
