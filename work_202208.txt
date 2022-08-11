@@ -19,3 +19,4 @@ Clean up code
 Refactor database queries
 Optimize algorithm
 Add tests
+Update configuration
