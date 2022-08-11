@@ -3,3 +3,4 @@ Add new feature
 Refactor database queries
 Optimize algorithm
 Add logging
+Update documentation
