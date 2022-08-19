@@ -21,3 +21,4 @@ Optimize algorithm
 Add tests
 Update configuration
 Refactor database queries
+Update documentation
