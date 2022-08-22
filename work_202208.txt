@@ -22,3 +22,4 @@ Add tests
 Update configuration
 Refactor database queries
 Update documentation
+Refactor database queries
