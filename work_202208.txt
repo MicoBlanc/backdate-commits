@@ -25,3 +25,4 @@ Update documentation
 Refactor database queries
 Clean up code
 Fix typo
+Update API endpoint
