@@ -7,3 +7,4 @@ Update documentation
 Add tests
 Fix typo
 Add logging
+Update API endpoint
