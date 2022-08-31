@@ -9,3 +9,4 @@ Fix typo
 Add logging
 Update API endpoint
 Update API endpoint
+Optimize algorithm
