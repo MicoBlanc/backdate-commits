@@ -6,3 +6,4 @@ Fix typo
 Refactor database queries
 Update dependencies
 Update API endpoint
+Fix bug in authentication
