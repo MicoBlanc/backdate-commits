@@ -10,3 +10,4 @@ Fix bug in authentication
 Fix typo
 Optimize algorithm
 Fix bug in authentication
+Update API endpoint
