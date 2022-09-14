@@ -11,3 +11,4 @@ Fix typo
 Optimize algorithm
 Fix bug in authentication
 Update API endpoint
+Improve error handling
