@@ -6,3 +6,4 @@ Improve performance
 Update configuration
 Update configuration
 Refactor database queries
+Update documentation
