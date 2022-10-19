@@ -10,3 +10,4 @@ Update documentation
 Optimize algorithm
 Update documentation
 Clean up code
+Improve performance
