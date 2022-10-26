@@ -17,3 +17,4 @@ Optimize algorithm
 Add new feature
 Refactor database queries
 Add tests
+Add new feature
