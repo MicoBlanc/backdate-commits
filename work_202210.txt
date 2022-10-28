@@ -20,3 +20,4 @@ Add tests
 Add new feature
 Add tests
 Add logging
+Update documentation
