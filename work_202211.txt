@@ -10,3 +10,4 @@ Add new feature
 Refactor database queries
 Add new feature
 Improve performance
+Fix edge case
