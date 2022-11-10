@@ -12,3 +12,4 @@ Add new feature
 Improve performance
 Fix edge case
 Update dependencies
+Improve error handling
