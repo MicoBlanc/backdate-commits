@@ -14,3 +14,4 @@ Fix edge case
 Update dependencies
 Improve error handling
 Optimize algorithm
+Optimize algorithm
