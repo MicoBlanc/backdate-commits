@@ -1,3 +1,4 @@
 Add tests
 Improve error handling
 Update documentation
+Add logging
