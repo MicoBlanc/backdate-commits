@@ -3,3 +3,4 @@ Improve error handling
 Update documentation
 Add logging
 Fix edge case
+Clean up code
