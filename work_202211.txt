@@ -17,3 +17,4 @@ Optimize algorithm
 Optimize algorithm
 Fix typo
 Refactor database queries
+Update API endpoint
