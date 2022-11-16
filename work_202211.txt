@@ -16,3 +16,4 @@ Improve error handling
 Optimize algorithm
 Optimize algorithm
 Fix typo
+Refactor database queries
