@@ -4,3 +4,4 @@ Update documentation
 Add logging
 Fix edge case
 Clean up code
+Clean up code
