@@ -19,3 +19,4 @@ Fix typo
 Refactor database queries
 Update API endpoint
 Update dependencies
+Improve error handling
