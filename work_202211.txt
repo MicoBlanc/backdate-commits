@@ -9,3 +9,4 @@ Fix edge case
 Add new feature
 Refactor database queries
 Add new feature
+Improve performance
