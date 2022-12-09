@@ -11,3 +11,4 @@ Fix edge case
 Fix typo
 Fix typo
 Update configuration
+Update configuration
