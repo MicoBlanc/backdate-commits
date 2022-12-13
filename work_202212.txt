@@ -12,3 +12,4 @@ Fix typo
 Fix typo
 Update configuration
 Update configuration
+Add logging
