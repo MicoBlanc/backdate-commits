@@ -5,3 +5,4 @@ Improve performance
 Update dependencies
 Update API endpoint
 Update API endpoint
+Update configuration
