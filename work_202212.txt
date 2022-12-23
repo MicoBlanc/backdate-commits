@@ -6,3 +6,4 @@ Update dependencies
 Update API endpoint
 Update API endpoint
 Update configuration
+Refactor database queries
