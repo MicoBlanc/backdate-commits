@@ -13,3 +13,4 @@ Fix typo
 Update configuration
 Update configuration
 Add logging
+Refactor database queries
