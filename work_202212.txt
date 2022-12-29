@@ -14,3 +14,4 @@ Update configuration
 Update configuration
 Add logging
 Refactor database queries
+Fix edge case
