@@ -11,3 +11,4 @@ Update documentation
 Add logging
 Add tests
 Fix typo
+Improve performance
