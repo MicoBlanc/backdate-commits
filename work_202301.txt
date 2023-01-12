@@ -12,3 +12,4 @@ Add logging
 Add tests
 Fix typo
 Improve performance
+Improve error handling
