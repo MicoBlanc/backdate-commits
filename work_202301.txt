@@ -14,3 +14,4 @@ Fix typo
 Improve performance
 Improve error handling
 Add new feature
+Update API endpoint
