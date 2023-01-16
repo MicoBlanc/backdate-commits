@@ -16,3 +16,4 @@ Improve error handling
 Add new feature
 Update API endpoint
 Update dependencies
+Fix edge case
