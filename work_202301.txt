@@ -17,3 +17,4 @@ Add new feature
 Update API endpoint
 Update dependencies
 Fix edge case
+Fix edge case
