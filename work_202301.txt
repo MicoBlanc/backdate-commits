@@ -3,3 +3,4 @@ Improve error handling
 Refactor database queries
 Refactor database queries
 Fix typo
+Improve error handling
