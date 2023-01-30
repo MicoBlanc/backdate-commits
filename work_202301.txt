@@ -20,3 +20,4 @@ Fix edge case
 Fix edge case
 Fix edge case
 Fix bug in authentication
+Fix bug in authentication
