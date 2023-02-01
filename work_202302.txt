@@ -18,3 +18,4 @@ Refactor database queries
 Update dependencies
 Fix bug in authentication
 Update dependencies
+Add logging
