@@ -20,3 +20,4 @@ Fix bug in authentication
 Update dependencies
 Add logging
 Add tests
+Add logging
