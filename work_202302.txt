@@ -1,3 +1,4 @@
 Update documentation
 Add tests
 Fix typo
+Add tests
