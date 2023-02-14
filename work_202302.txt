@@ -5,3 +5,4 @@ Add tests
 Optimize algorithm
 Optimize algorithm
 Optimize algorithm
+Clean up code
