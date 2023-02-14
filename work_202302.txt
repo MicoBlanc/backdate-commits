@@ -6,3 +6,4 @@ Optimize algorithm
 Optimize algorithm
 Optimize algorithm
 Clean up code
+Update configuration
