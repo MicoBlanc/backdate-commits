@@ -9,3 +9,4 @@ Clean up code
 Update configuration
 Optimize algorithm
 Optimize algorithm
+Improve error handling
