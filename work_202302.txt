@@ -27,3 +27,4 @@ Improve error handling
 Improve performance
 Update dependencies
 Update configuration
+Add logging
