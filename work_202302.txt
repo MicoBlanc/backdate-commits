@@ -14,3 +14,4 @@ Clean up code
 Fix edge case
 Optimize algorithm
 Update API endpoint
+Refactor database queries
