@@ -29,3 +29,4 @@ Update dependencies
 Update configuration
 Add logging
 Update dependencies
+Fix edge case
