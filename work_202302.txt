@@ -17,3 +17,4 @@ Update API endpoint
 Refactor database queries
 Update dependencies
 Fix bug in authentication
+Update dependencies
