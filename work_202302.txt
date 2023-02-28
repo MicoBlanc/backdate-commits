@@ -32,3 +32,4 @@ Update dependencies
 Fix edge case
 Add new feature
 Fix edge case
+Improve error handling
