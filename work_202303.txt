@@ -7,3 +7,4 @@ Update documentation
 Update dependencies
 Update configuration
 Update API endpoint
+Add tests
