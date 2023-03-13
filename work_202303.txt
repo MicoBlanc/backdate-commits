@@ -12,3 +12,4 @@ Improve performance
 Update configuration
 Update dependencies
 Optimize algorithm
+Refactor database queries
