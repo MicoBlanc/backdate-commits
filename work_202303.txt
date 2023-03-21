@@ -3,3 +3,4 @@ Add new feature
 Add logging
 Add logging
 Update dependencies
+Update documentation
