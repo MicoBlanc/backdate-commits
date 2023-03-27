@@ -18,3 +18,4 @@ Update configuration
 Improve performance
 Update API endpoint
 Fix bug in authentication
+Update configuration
