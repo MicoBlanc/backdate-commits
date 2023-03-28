@@ -20,3 +20,4 @@ Update API endpoint
 Fix bug in authentication
 Update configuration
 Refactor database queries
+Clean up code
