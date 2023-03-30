@@ -5,3 +5,4 @@ Add logging
 Update dependencies
 Update documentation
 Update dependencies
+Update configuration
