@@ -16,3 +16,4 @@ Fix edge case
 Fix bug in authentication
 Add tests
 Update configuration
+Add tests
