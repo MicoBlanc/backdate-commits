@@ -17,3 +17,4 @@ Fix bug in authentication
 Add tests
 Update configuration
 Add tests
+Add new feature
