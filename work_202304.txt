@@ -18,3 +18,4 @@ Add tests
 Update configuration
 Add tests
 Add new feature
+Add logging
