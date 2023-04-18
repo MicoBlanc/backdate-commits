@@ -5,3 +5,4 @@ Update API endpoint
 Optimize algorithm
 Add tests
 Optimize algorithm
+Update dependencies
