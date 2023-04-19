@@ -6,3 +6,4 @@ Optimize algorithm
 Add tests
 Optimize algorithm
 Update dependencies
+Improve performance
