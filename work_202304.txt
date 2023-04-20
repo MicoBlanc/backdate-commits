@@ -19,3 +19,4 @@ Update configuration
 Add tests
 Add new feature
 Add logging
+Clean up code
