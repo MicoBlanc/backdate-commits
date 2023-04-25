@@ -8,3 +8,4 @@ Optimize algorithm
 Update dependencies
 Improve performance
 Improve performance
+Fix typo
