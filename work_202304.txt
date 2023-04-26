@@ -10,3 +10,4 @@ Improve performance
 Improve performance
 Fix typo
 Fix bug in authentication
+Add new feature
