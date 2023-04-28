@@ -20,3 +20,4 @@ Add tests
 Add new feature
 Add logging
 Clean up code
+Improve performance
