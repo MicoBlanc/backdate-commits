@@ -8,3 +8,4 @@ Improve performance
 Update dependencies
 Clean up code
 Clean up code
+Add tests
