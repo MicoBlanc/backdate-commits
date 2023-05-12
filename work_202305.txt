@@ -2,3 +2,4 @@ Add tests
 Add tests
 Fix bug in authentication
 Fix edge case
+Clean up code
