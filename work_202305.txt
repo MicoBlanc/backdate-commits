@@ -20,3 +20,4 @@ Fix edge case
 Add logging
 Add new feature
 Clean up code
+Optimize algorithm
