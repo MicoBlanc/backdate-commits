@@ -6,3 +6,4 @@ Clean up code
 Fix typo
 Improve performance
 Update dependencies
+Clean up code
