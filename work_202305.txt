@@ -24,3 +24,4 @@ Optimize algorithm
 Fix typo
 Optimize algorithm
 Update dependencies
+Clean up code
