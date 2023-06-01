@@ -9,3 +9,4 @@ Update dependencies
 Update API endpoint
 Improve error handling
 Update documentation
+Update API endpoint
