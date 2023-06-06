@@ -12,3 +12,4 @@ Update documentation
 Update API endpoint
 Refactor database queries
 Improve performance
+Optimize algorithm
