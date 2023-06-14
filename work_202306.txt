@@ -16,3 +16,4 @@ Optimize algorithm
 Improve performance
 Fix edge case
 Add new feature
+Improve error handling
