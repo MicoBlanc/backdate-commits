@@ -21,3 +21,4 @@ Fix bug in authentication
 Update documentation
 Improve error handling
 Fix typo
+Refactor database queries
