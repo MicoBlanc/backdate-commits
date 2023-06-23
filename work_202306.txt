@@ -26,3 +26,4 @@ Add logging
 Refactor database queries
 Refactor database queries
 Add tests
+Update configuration
