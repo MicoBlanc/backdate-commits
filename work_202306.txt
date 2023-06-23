@@ -25,3 +25,4 @@ Refactor database queries
 Add logging
 Refactor database queries
 Refactor database queries
+Add tests
