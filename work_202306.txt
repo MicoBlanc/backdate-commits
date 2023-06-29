@@ -5,3 +5,4 @@ Optimize algorithm
 Add new feature
 Update configuration
 Improve error handling
+Update dependencies
