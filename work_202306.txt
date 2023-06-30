@@ -7,3 +7,4 @@ Update configuration
 Improve error handling
 Update dependencies
 Update API endpoint
+Improve error handling
