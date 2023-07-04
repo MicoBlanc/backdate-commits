@@ -5,3 +5,4 @@ Add tests
 Update API endpoint
 Fix edge case
 Improve performance
+Fix typo
