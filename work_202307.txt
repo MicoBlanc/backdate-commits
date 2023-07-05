@@ -1,2 +1,3 @@
 Fix bug in authentication
 Clean up code
+Refactor database queries
