@@ -11,3 +11,4 @@ Improve performance
 Fix typo
 Update API endpoint
 Improve performance
+Fix edge case
