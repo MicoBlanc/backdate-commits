@@ -13,3 +13,4 @@ Update API endpoint
 Improve performance
 Fix edge case
 Add tests
+Update documentation
