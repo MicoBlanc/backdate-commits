@@ -17,3 +17,4 @@ Update documentation
 Fix typo
 Clean up code
 Add logging
+Improve error handling
