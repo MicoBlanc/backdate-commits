@@ -20,3 +20,4 @@ Add logging
 Improve error handling
 Update dependencies
 Fix edge case
+Update configuration
