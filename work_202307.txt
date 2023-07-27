@@ -23,3 +23,4 @@ Fix edge case
 Update configuration
 Clean up code
 Optimize algorithm
+Improve error handling
