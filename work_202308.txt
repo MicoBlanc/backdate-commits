@@ -24,3 +24,4 @@ Fix edge case
 Update dependencies
 Fix iOS-specific rendering issue
 Optimize bundle size
+Implement offline mode
