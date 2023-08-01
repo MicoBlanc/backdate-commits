@@ -25,3 +25,4 @@ Update dependencies
 Fix iOS-specific rendering issue
 Optimize bundle size
 Implement offline mode
+Fix iOS-specific rendering issue
