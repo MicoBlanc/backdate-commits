@@ -36,3 +36,4 @@ Optimize bundle size
 Optimize image loading
 Add error handling and logging
 Optimize query performance
+Implement offline mode
