@@ -33,3 +33,4 @@ Fix memory leak in background service
 Fix security vulnerability
 Refactor authentication middleware
 Optimize bundle size
+Optimize image loading
