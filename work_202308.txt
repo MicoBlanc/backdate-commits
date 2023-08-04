@@ -43,3 +43,4 @@ Fix critical bug in payment processing
 Add webhook integration
 Refactor authentication middleware
 Update UI components
+Add data migration script
