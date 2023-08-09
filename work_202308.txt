@@ -2,3 +2,4 @@ Add tests
 Update documentation
 Fix typo
 Refactor database queries
+Optimize algorithm
