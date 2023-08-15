@@ -18,3 +18,4 @@ Clean up code
 Improve error handling
 Fix typo
 Fix bug in authentication
+Improve performance
