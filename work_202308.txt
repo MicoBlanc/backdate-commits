@@ -19,3 +19,4 @@ Improve error handling
 Fix typo
 Fix bug in authentication
 Improve performance
+Update dependencies
