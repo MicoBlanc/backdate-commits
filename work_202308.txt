@@ -73,3 +73,4 @@ Add comprehensive error tracking
 Implement dark mode support
 Fix race condition in state management
 Improve app startup time
+Fix iOS-specific rendering issue
