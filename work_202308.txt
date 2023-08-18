@@ -81,3 +81,4 @@ Update UI components
 Improve app startup time
 Implement offline mode
 Fix memory leak in background service
+Add data migration script
