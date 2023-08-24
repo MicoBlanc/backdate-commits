@@ -6,3 +6,4 @@ Optimize algorithm
 Fix edge case
 Update API endpoint
 Fix edge case
+Add new feature
