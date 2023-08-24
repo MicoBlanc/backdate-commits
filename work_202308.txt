@@ -99,3 +99,4 @@ Refactor API client
 Implement offline mode
 Fix memory leak in background service
 Fix memory leak in background service
+Implement real-time updates
