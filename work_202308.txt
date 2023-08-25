@@ -103,3 +103,4 @@ Implement real-time updates
 Implement dark mode support
 Integrate third-party API
 Add comprehensive error tracking
+Add data migration script
