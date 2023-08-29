@@ -111,3 +111,4 @@ Refactor authentication middleware
 Implement real-time updates
 Implement offline mode
 Optimize query performance
+Add unit tests for core features
