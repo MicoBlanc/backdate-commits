@@ -28,3 +28,4 @@ Improve error handling
 Refactor database queries
 Integrate third-party API
 Fix security vulnerability
+Add unit tests for core features
