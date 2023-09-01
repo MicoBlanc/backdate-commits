@@ -30,3 +30,4 @@ Integrate third-party API
 Fix security vulnerability
 Add unit tests for core features
 Update UI components
+Refactor database schema
