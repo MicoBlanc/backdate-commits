@@ -33,3 +33,4 @@ Update UI components
 Refactor database schema
 Add unit tests for core features
 Add error handling and logging
+Implement dark mode support
