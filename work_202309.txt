@@ -10,3 +10,4 @@ Update documentation
 Clean up code
 Update API endpoint
 Clean up code
+Fix typo
