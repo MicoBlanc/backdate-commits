@@ -44,3 +44,4 @@ Fix security vulnerability
 Implement dark mode support
 Implement push notifications
 Fix security vulnerability
+Add rate limiting
