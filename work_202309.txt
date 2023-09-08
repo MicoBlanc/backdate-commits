@@ -49,3 +49,4 @@ Add data migration script
 Integrate third-party API
 Implement push notifications
 Implement push notifications
+Refactor database schema
