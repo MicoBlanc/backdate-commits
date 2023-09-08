@@ -13,3 +13,4 @@ Clean up code
 Fix typo
 Fix bug in authentication
 Improve performance
+Clean up code
