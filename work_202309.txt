@@ -50,3 +50,4 @@ Integrate third-party API
 Implement push notifications
 Implement push notifications
 Refactor database schema
+Add rate limiting
