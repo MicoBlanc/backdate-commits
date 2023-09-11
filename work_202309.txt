@@ -2,3 +2,4 @@ Add tests
 Clean up code
 Update documentation
 Add tests
+Optimize algorithm
