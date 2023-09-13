@@ -4,3 +4,4 @@ Update documentation
 Add tests
 Optimize algorithm
 Update configuration
+Update configuration
