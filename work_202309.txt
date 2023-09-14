@@ -72,3 +72,4 @@ Implement dark mode support
 Refactor API client
 Implement real-time updates
 Add error handling and logging
+Implement dark mode support
