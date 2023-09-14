@@ -5,3 +5,4 @@ Add tests
 Optimize algorithm
 Update configuration
 Update configuration
+Improve performance
