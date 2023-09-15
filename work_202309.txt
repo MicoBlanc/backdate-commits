@@ -16,3 +16,4 @@ Improve performance
 Clean up code
 Clean up code
 Improve performance
+Fix typo
