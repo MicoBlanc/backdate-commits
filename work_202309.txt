@@ -78,3 +78,4 @@ Optimize image loading
 Add data migration script
 Integrate third-party API
 Fix critical bug in payment processing
+Optimize query performance
