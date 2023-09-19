@@ -19,3 +19,4 @@ Improve performance
 Fix typo
 Update documentation
 Update documentation
+Update configuration
