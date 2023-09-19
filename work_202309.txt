@@ -87,3 +87,4 @@ Add unit tests for core features
 Implement user authentication flow
 Fix security vulnerability
 Implement push notifications
+Fix security vulnerability
