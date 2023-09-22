@@ -21,3 +21,4 @@ Update documentation
 Update documentation
 Update configuration
 Improve performance
+Refactor database queries
