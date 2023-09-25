@@ -22,3 +22,4 @@ Update documentation
 Update configuration
 Improve performance
 Refactor database queries
+Add logging
