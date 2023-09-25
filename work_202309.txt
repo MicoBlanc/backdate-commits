@@ -99,3 +99,4 @@ Refactor authentication middleware
 Refactor authentication middleware
 Implement dark mode support
 Optimize image loading
+Add unit tests for core features
