@@ -6,3 +6,4 @@ Optimize algorithm
 Update configuration
 Update configuration
 Improve performance
+Update documentation
