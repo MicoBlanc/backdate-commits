@@ -105,3 +105,4 @@ Add rate limiting
 Optimize query performance
 Optimize image loading
 Optimize image loading
+Refactor authentication middleware
