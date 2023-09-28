@@ -8,3 +8,4 @@ Update configuration
 Improve performance
 Update documentation
 Clean up code
+Update API endpoint
