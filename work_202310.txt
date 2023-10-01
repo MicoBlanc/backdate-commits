@@ -33,3 +33,4 @@ Optimize algorithm
 Fix bug in authentication
 Add logging
 Improve error handling
+Add unit tests for core features
