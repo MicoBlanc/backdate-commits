@@ -35,3 +35,4 @@ Add logging
 Improve error handling
 Add unit tests for core features
 Optimize query performance
+Fix iOS-specific rendering issue
