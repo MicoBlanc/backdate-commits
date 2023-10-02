@@ -37,3 +37,4 @@ Add unit tests for core features
 Optimize query performance
 Fix iOS-specific rendering issue
 Add data migration script
+Add rate limiting
