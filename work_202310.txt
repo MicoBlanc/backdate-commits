@@ -41,3 +41,4 @@ Add rate limiting
 Implement push notifications
 Update UI components
 Add rate limiting
+Implement offline mode
