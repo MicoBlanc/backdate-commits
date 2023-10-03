@@ -13,3 +13,4 @@ Fix edge case
 Add logging
 Fix bug in authentication
 Refactor database queries
+Update configuration
