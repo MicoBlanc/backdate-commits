@@ -40,3 +40,4 @@ Add data migration script
 Add rate limiting
 Implement push notifications
 Update UI components
+Add rate limiting
