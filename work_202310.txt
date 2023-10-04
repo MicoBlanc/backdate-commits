@@ -44,3 +44,4 @@ Add rate limiting
 Implement offline mode
 Improve app startup time
 Optimize query performance
+Implement offline mode
