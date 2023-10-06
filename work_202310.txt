@@ -51,3 +51,4 @@ Optimize query performance
 Refactor database schema
 Refactor database schema
 Add webhook integration
+Fix memory leak in background service
