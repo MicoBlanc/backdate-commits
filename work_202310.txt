@@ -17,3 +17,4 @@ Update configuration
 Refactor database queries
 Fix typo
 Add tests
+Update documentation
