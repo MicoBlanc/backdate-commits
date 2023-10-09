@@ -3,3 +3,4 @@ Update dependencies
 Fix bug in authentication
 Improve error handling
 Add logging
+Fix bug in authentication
