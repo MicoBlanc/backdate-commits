@@ -2,3 +2,4 @@ Add tests
 Update dependencies
 Fix bug in authentication
 Improve error handling
+Add logging
