@@ -61,3 +61,4 @@ Optimize bundle size
 Add rate limiting
 Implement user authentication flow
 Integrate third-party API
+Add unit tests for core features
