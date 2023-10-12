@@ -20,3 +20,4 @@ Add tests
 Update documentation
 Add tests
 Update API endpoint
+Fix bug in authentication
