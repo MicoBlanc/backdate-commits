@@ -71,3 +71,4 @@ Implement dark mode support
 Optimize image loading
 Add error handling and logging
 Add error handling and logging
+Optimize bundle size
