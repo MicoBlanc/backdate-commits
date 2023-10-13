@@ -65,3 +65,4 @@ Add unit tests for core features
 Add new API endpoint for data sync
 Add new API endpoint for data sync
 Fix security vulnerability
+Improve app startup time
