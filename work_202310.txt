@@ -21,3 +21,4 @@ Update documentation
 Add tests
 Update API endpoint
 Fix bug in authentication
+Update configuration
