@@ -72,3 +72,4 @@ Optimize image loading
 Add error handling and logging
 Add error handling and logging
 Optimize bundle size
+Fix iOS-specific rendering issue
