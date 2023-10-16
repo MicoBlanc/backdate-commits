@@ -77,3 +77,4 @@ Fix critical bug in payment processing
 Fix Android compatibility issue
 Refactor API client
 Implement dark mode support
+Add webhook integration
