@@ -79,3 +79,4 @@ Refactor API client
 Implement dark mode support
 Add webhook integration
 Add feature flag system
+Fix memory leak in background service
