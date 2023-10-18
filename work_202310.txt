@@ -7,3 +7,4 @@ Fix bug in authentication
 Refactor database queries
 Fix typo
 Add logging
+Fix typo
