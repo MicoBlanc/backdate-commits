@@ -85,3 +85,4 @@ Add webhook integration
 Fix Android compatibility issue
 Implement real-time updates
 Add error handling and logging
+Add new API endpoint for data sync
