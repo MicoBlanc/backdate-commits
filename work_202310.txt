@@ -91,3 +91,4 @@ Add data migration script
 Refactor authentication middleware
 Add data migration script
 Optimize query performance
+Refactor database schema
