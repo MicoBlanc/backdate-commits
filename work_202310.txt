@@ -95,3 +95,4 @@ Refactor database schema
 Add webhook integration
 Optimize image loading
 Add analytics tracking
+Optimize bundle size
