@@ -26,3 +26,4 @@ Update documentation
 Update configuration
 Optimize algorithm
 Optimize algorithm
+Update dependencies
