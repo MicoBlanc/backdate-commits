@@ -102,3 +102,4 @@ Fix critical bug in payment processing
 Improve app startup time
 Update UI components
 Fix critical bug in payment processing
+Add rate limiting
