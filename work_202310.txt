@@ -107,3 +107,4 @@ Add rate limiting
 Add error handling and logging
 Add error handling and logging
 Refactor authentication middleware
+Refactor database schema
