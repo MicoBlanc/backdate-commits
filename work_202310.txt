@@ -28,3 +28,4 @@ Optimize algorithm
 Optimize algorithm
 Update dependencies
 Update documentation
+Update API endpoint
