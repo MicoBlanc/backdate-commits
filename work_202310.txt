@@ -11,3 +11,4 @@ Fix typo
 Fix typo
 Fix edge case
 Add logging
+Fix bug in authentication
