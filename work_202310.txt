@@ -30,3 +30,4 @@ Update dependencies
 Update documentation
 Update API endpoint
 Optimize algorithm
+Fix bug in authentication
