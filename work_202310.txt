@@ -120,3 +120,4 @@ Fix iOS-specific rendering issue
 Refactor API client
 Refactor authentication middleware
 Fix Android compatibility issue
+Implement caching layer
