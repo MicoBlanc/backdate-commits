@@ -21,3 +21,4 @@ Fix edge case
 Clean up code
 Refactor database queries
 Add rate limiting
+Implement caching layer
