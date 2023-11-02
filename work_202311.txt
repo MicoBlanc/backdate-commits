@@ -23,3 +23,4 @@ Refactor database queries
 Add rate limiting
 Implement caching layer
 Add rate limiting
+Implement real-time updates
