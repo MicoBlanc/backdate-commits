@@ -3,3 +3,4 @@ Improve performance
 Optimize algorithm
 Fix edge case
 Fix bug in authentication
+Optimize algorithm
