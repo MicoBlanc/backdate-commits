@@ -29,3 +29,4 @@ Optimize image loading
 Fix memory leak in background service
 Fix Android compatibility issue
 Add comprehensive error tracking
+Fix Android compatibility issue
