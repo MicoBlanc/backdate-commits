@@ -6,3 +6,4 @@ Fix bug in authentication
 Optimize algorithm
 Optimize algorithm
 Refactor database queries
+Update dependencies
