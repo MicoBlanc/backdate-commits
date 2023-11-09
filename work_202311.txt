@@ -50,3 +50,4 @@ Implement caching layer
 Refactor database schema
 Implement caching layer
 Add new API endpoint for data sync
+Optimize bundle size
