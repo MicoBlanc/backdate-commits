@@ -57,3 +57,4 @@ Fix race condition in state management
 Improve app startup time
 Implement caching layer
 Update UI components
+Add rate limiting
