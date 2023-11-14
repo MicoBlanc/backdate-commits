@@ -62,3 +62,4 @@ Improve app startup time
 Improve app startup time
 Update UI components
 Add data migration script
+Refactor database schema
