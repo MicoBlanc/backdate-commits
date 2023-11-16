@@ -7,3 +7,4 @@ Optimize algorithm
 Optimize algorithm
 Refactor database queries
 Update dependencies
+Fix edge case
