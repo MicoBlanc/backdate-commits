@@ -71,3 +71,4 @@ Refactor database schema
 Fix memory leak in background service
 Implement dark mode support
 Add rate limiting
+Fix race condition in state management
