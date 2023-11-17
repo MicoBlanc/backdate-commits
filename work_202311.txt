@@ -9,3 +9,4 @@ Refactor database queries
 Update dependencies
 Fix edge case
 Update documentation
+Update configuration
