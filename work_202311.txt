@@ -11,3 +11,4 @@ Fix edge case
 Update documentation
 Update configuration
 Clean up code
+Update dependencies
