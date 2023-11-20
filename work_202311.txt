@@ -75,3 +75,4 @@ Fix race condition in state management
 Fix critical bug in payment processing
 Add feature flag system
 Fix iOS-specific rendering issue
+Add rate limiting
