@@ -78,3 +78,4 @@ Fix iOS-specific rendering issue
 Add rate limiting
 Refactor database schema
 Optimize query performance
+Implement dark mode support
