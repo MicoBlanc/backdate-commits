@@ -85,3 +85,4 @@ Fix Android compatibility issue
 Refactor API client
 Refactor authentication middleware
 Fix security vulnerability
+Fix memory leak in background service
