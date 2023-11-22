@@ -86,3 +86,4 @@ Refactor API client
 Refactor authentication middleware
 Fix security vulnerability
 Fix memory leak in background service
+Add data migration script
