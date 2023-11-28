@@ -98,3 +98,4 @@ Add error handling and logging
 Improve app startup time
 Refactor API client
 Refactor API client
+Implement push notifications
