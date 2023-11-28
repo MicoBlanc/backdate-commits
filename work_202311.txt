@@ -99,3 +99,4 @@ Improve app startup time
 Refactor API client
 Refactor API client
 Implement push notifications
+Fix security vulnerability
