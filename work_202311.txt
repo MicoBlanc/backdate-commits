@@ -18,3 +18,4 @@ Update configuration
 Add new feature
 Fix bug in authentication
 Fix edge case
+Clean up code
