@@ -23,3 +23,4 @@ Fix bug in authentication
 Add new feature
 Update dependencies
 Fix security vulnerability
+Implement caching layer
