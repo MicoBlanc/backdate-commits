@@ -7,3 +7,4 @@ Update API endpoint
 Add logging
 Update documentation
 Update dependencies
+Add new feature
