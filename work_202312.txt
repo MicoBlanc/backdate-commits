@@ -8,3 +8,4 @@ Add logging
 Update documentation
 Update dependencies
 Add new feature
+Clean up code
