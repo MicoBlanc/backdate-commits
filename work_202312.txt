@@ -29,3 +29,4 @@ Add analytics tracking
 Add rate limiting
 Refactor database schema
 Improve app startup time
+Implement caching layer
