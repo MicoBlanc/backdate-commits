@@ -10,3 +10,4 @@ Update dependencies
 Add new feature
 Clean up code
 Fix typo
+Add new feature
