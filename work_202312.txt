@@ -32,3 +32,4 @@ Improve app startup time
 Implement caching layer
 Optimize query performance
 Optimize bundle size
+Implement offline mode
