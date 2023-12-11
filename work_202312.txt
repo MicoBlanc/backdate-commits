@@ -45,3 +45,4 @@ Implement real-time updates
 Refactor authentication middleware
 Add comprehensive error tracking
 Refactor API client
+Add unit tests for core features
