@@ -46,3 +46,4 @@ Refactor authentication middleware
 Add comprehensive error tracking
 Refactor API client
 Add unit tests for core features
+Fix memory leak in background service
