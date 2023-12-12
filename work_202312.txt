@@ -49,3 +49,4 @@ Add unit tests for core features
 Fix memory leak in background service
 Refactor API client
 Add comprehensive error tracking
+Refactor database schema
