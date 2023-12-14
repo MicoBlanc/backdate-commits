@@ -58,3 +58,4 @@ Implement user authentication flow
 Fix iOS-specific rendering issue
 Integrate third-party API
 Integrate third-party API
+Implement offline mode
