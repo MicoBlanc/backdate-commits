@@ -12,3 +12,4 @@ Clean up code
 Fix typo
 Add new feature
 Fix bug in authentication
+Optimize algorithm
