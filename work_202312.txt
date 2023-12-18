@@ -68,3 +68,4 @@ Implement user authentication flow
 Improve app startup time
 Refactor database schema
 Add data migration script
+Implement real-time updates
