@@ -14,3 +14,4 @@ Add new feature
 Fix bug in authentication
 Optimize algorithm
 Add new feature
+Fix edge case
