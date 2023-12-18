@@ -67,3 +67,4 @@ Implement push notifications
 Implement user authentication flow
 Improve app startup time
 Refactor database schema
+Add data migration script
