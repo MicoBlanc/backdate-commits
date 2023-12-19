@@ -74,3 +74,4 @@ Fix iOS-specific rendering issue
 Implement push notifications
 Refactor API client
 Implement offline mode
+Implement offline mode
