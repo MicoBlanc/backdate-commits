@@ -15,3 +15,4 @@ Fix bug in authentication
 Optimize algorithm
 Add new feature
 Fix edge case
+Add tests
