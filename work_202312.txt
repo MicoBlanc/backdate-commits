@@ -76,3 +76,4 @@ Refactor API client
 Implement offline mode
 Implement offline mode
 Add unit tests for core features
+Implement dark mode support
