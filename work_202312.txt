@@ -17,3 +17,4 @@ Add new feature
 Fix edge case
 Add tests
 Optimize algorithm
+Improve performance
