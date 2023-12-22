@@ -84,3 +84,4 @@ Optimize image loading
 Add rate limiting
 Fix security vulnerability
 Fix security vulnerability
+Fix Android compatibility issue
