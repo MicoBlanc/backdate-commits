@@ -85,3 +85,4 @@ Add rate limiting
 Fix security vulnerability
 Fix security vulnerability
 Fix Android compatibility issue
+Add unit tests for core features
