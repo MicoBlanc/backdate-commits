@@ -19,3 +19,4 @@ Add tests
 Optimize algorithm
 Improve performance
 Update API endpoint
+Fix bug in authentication
