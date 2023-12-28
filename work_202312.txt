@@ -105,3 +105,4 @@ Add feature flag system
 Implement offline mode
 Update UI components
 Fix critical bug in payment processing
+Fix memory leak in background service
