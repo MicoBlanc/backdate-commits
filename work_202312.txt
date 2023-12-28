@@ -6,3 +6,4 @@ Clean up code
 Update API endpoint
 Add logging
 Update documentation
+Update dependencies
