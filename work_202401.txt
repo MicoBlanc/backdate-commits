@@ -1,3 +1,4 @@
 Fix bug in authentication
 Add tests
 Optimize algorithm
+Add tests
