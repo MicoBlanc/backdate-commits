@@ -3,3 +3,4 @@ Add tests
 Optimize algorithm
 Add tests
 Refactor database queries
+Optimize algorithm
