@@ -4,3 +4,4 @@ Optimize algorithm
 Add tests
 Refactor database queries
 Optimize algorithm
+Clean up code
