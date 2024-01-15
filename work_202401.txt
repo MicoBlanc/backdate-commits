@@ -7,3 +7,4 @@ Optimize algorithm
 Clean up code
 Update API endpoint
 Add new feature
+Update dependencies
