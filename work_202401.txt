@@ -9,3 +9,4 @@ Update API endpoint
 Add new feature
 Update dependencies
 Improve performance
+Add tests
