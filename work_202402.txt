@@ -2,3 +2,4 @@ Fix edge case
 Update documentation
 Update configuration
 Add new feature
+Update API endpoint
