@@ -4,3 +4,4 @@ Update configuration
 Add new feature
 Update API endpoint
 Add new feature
+Optimize algorithm
