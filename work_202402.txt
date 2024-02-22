@@ -7,3 +7,4 @@ Add new feature
 Optimize algorithm
 Add tests
 Fix typo
+Fix typo
