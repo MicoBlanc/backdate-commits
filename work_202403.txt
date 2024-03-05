@@ -1,2 +1,3 @@
 Improve error handling
 Update configuration
+Refactor database queries
