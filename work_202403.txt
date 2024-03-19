@@ -4,3 +4,4 @@ Refactor database queries
 Add logging
 Fix bug in authentication
 Add tests
+Improve error handling
