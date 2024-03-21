@@ -6,3 +6,4 @@ Fix bug in authentication
 Add tests
 Improve error handling
 Improve error handling
+Add tests
