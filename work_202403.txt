@@ -11,3 +11,4 @@ Add tests
 Improve performance
 Update configuration
 Update dependencies
+Add logging
