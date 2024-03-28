@@ -13,3 +13,4 @@ Update configuration
 Update dependencies
 Add logging
 Update configuration
+Add logging
