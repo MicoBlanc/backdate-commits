@@ -1,3 +1,4 @@
 Fix bug in authentication
 Refactor database queries
 Fix bug in authentication
+Add logging
