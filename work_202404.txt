@@ -5,3 +5,4 @@ Add logging
 Optimize algorithm
 Improve performance
 Update dependencies
+Update API endpoint
