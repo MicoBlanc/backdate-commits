@@ -6,3 +6,4 @@ Optimize algorithm
 Improve performance
 Update dependencies
 Update API endpoint
+Improve error handling
