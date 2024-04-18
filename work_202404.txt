@@ -7,3 +7,4 @@ Improve performance
 Update dependencies
 Update API endpoint
 Improve error handling
+Fix edge case
