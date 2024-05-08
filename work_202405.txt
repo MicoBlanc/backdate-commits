@@ -6,3 +6,4 @@ Add logging
 Update configuration
 Update documentation
 Add logging
+Fix typo
