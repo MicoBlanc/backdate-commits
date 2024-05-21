@@ -10,3 +10,4 @@ Fix typo
 Improve performance
 Optimize algorithm
 Improve error handling
+Fix bug in authentication
