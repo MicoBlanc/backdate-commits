@@ -14,3 +14,4 @@ Fix bug in authentication
 Add new feature
 Optimize algorithm
 Add logging
+Add new feature
