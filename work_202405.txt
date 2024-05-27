@@ -15,3 +15,4 @@ Add new feature
 Optimize algorithm
 Add logging
 Add new feature
+Clean up code
