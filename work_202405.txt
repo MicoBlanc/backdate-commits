@@ -18,3 +18,4 @@ Add new feature
 Clean up code
 Update API endpoint
 Refactor database queries
+Add logging
