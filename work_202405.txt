@@ -17,3 +17,4 @@ Add logging
 Add new feature
 Clean up code
 Update API endpoint
+Refactor database queries
