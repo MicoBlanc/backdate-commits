@@ -4,3 +4,4 @@ Fix typo
 Fix bug in authentication
 Update configuration
 Optimize algorithm
+Clean up code
