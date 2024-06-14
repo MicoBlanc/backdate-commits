@@ -3,3 +3,4 @@ Update dependencies
 Fix typo
 Fix bug in authentication
 Update configuration
+Optimize algorithm
