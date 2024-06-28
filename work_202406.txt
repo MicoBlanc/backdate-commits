@@ -8,3 +8,4 @@ Clean up code
 Add new feature
 Update configuration
 Optimize algorithm
+Fix bug in authentication
