@@ -1,2 +1,3 @@
 Add logging
 Update configuration
+Add tests
