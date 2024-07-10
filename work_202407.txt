@@ -2,3 +2,4 @@ Add logging
 Update configuration
 Add tests
 Update documentation
+Add tests
