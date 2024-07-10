@@ -3,3 +3,4 @@ Update configuration
 Add tests
 Update documentation
 Add tests
+Update configuration
