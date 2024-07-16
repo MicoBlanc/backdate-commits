@@ -6,3 +6,4 @@ Add tests
 Update configuration
 Update dependencies
 Fix bug in authentication
+Add new feature
