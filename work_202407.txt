@@ -9,3 +9,4 @@ Fix bug in authentication
 Add new feature
 Add new feature
 Improve error handling
+Clean up code
