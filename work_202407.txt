@@ -10,3 +10,4 @@ Add new feature
 Add new feature
 Improve error handling
 Clean up code
+Refactor database queries
