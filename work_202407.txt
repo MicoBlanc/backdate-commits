@@ -15,3 +15,4 @@ Refactor database queries
 Add logging
 Add new feature
 Add tests
+Refactor database queries
