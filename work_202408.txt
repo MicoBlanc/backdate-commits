@@ -9,3 +9,4 @@ Update API endpoint
 Update documentation
 Update documentation
 Add tests
+Add new feature
