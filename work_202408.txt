@@ -13,3 +13,4 @@ Add new feature
 Improve performance
 Update documentation
 Add new feature
+Clean up code
