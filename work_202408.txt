@@ -22,3 +22,4 @@ Add logging
 Improve error handling
 Add logging
 Fix bug in authentication
+Fix typo
