@@ -2,3 +2,4 @@ Add tests
 Add logging
 Update documentation
 Improve performance
+Fix edge case
