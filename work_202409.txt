@@ -4,3 +4,4 @@ Update documentation
 Improve performance
 Fix edge case
 Fix typo
+Update documentation
