@@ -6,3 +6,4 @@ Fix edge case
 Fix typo
 Update documentation
 Improve performance
+Optimize algorithm
