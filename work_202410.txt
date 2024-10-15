@@ -5,3 +5,4 @@ Update dependencies
 Improve error handling
 Clean up code
 Fix bug in authentication
+Update configuration
