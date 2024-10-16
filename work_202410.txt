@@ -6,3 +6,4 @@ Improve error handling
 Clean up code
 Fix bug in authentication
 Update configuration
+Clean up code
