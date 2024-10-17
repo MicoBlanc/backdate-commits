@@ -8,3 +8,4 @@ Fix bug in authentication
 Update configuration
 Clean up code
 Update dependencies
+Update documentation
