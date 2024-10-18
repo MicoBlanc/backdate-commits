@@ -9,3 +9,4 @@ Update configuration
 Clean up code
 Update dependencies
 Update documentation
+Fix typo
