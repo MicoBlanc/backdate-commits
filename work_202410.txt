@@ -13,3 +13,4 @@ Fix typo
 Improve performance
 Refactor database queries
 Update configuration
+Improve error handling
