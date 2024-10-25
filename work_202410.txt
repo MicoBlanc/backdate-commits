@@ -16,3 +16,4 @@ Update configuration
 Improve error handling
 Update API endpoint
 Add new feature
+Add tests
