@@ -19,3 +19,4 @@ Add new feature
 Add tests
 Fix edge case
 Clean up code
+Refactor database queries
