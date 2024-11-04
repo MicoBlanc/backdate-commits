@@ -1,1 +1,2 @@
 Update configuration
+Fix edge case
