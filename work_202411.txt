@@ -2,3 +2,4 @@ Update configuration
 Fix edge case
 Add tests
 Fix bug in authentication
+Add tests
