@@ -1,2 +1,3 @@
 Update configuration
 Fix edge case
+Add tests
