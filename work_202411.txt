@@ -8,3 +8,4 @@ Optimize algorithm
 Update documentation
 Add tests
 Clean up code
+Update configuration
