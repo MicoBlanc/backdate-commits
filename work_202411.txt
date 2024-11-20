@@ -13,3 +13,4 @@ Add new feature
 Update dependencies
 Update configuration
 Fix typo
+Add new feature
