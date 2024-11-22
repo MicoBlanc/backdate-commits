@@ -16,3 +16,4 @@ Fix typo
 Add new feature
 Update configuration
 Add new feature
+Update documentation
