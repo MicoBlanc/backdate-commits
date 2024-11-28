@@ -18,3 +18,4 @@ Update configuration
 Add new feature
 Update documentation
 Update dependencies
+Update configuration
