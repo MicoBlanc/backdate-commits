@@ -2,3 +2,4 @@ Update dependencies
 Update configuration
 Clean up code
 Add logging
+Improve error handling
