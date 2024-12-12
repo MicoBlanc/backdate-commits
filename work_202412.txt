@@ -6,3 +6,4 @@ Improve error handling
 Clean up code
 Fix edge case
 Fix edge case
+Update documentation
