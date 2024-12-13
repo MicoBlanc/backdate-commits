@@ -10,3 +10,4 @@ Update documentation
 Add tests
 Refactor database queries
 Update documentation
+Update dependencies
