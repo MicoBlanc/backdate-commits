@@ -12,3 +12,4 @@ Refactor database queries
 Update documentation
 Update dependencies
 Update API endpoint
+Add tests
