@@ -14,3 +14,4 @@ Update dependencies
 Update API endpoint
 Add tests
 Update documentation
+Fix bug in authentication
