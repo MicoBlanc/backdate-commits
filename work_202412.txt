@@ -15,3 +15,4 @@ Update API endpoint
 Add tests
 Update documentation
 Fix bug in authentication
+Refactor database queries
