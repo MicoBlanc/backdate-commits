@@ -16,3 +16,4 @@ Add tests
 Update documentation
 Fix bug in authentication
 Refactor database queries
+Improve error handling
