@@ -1,1 +1,2 @@
 Refactor database queries
+Optimize algorithm
