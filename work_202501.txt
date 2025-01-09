@@ -5,3 +5,4 @@ Update configuration
 Fix edge case
 Clean up code
 Update API endpoint
+Update dependencies
