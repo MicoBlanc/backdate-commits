@@ -3,3 +3,4 @@ Optimize algorithm
 Update documentation
 Update configuration
 Fix edge case
+Clean up code
