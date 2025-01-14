@@ -11,3 +11,4 @@ Clean up code
 Update documentation
 Update documentation
 Fix edge case
+Add logging
