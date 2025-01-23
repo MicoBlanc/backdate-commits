@@ -14,3 +14,4 @@ Fix edge case
 Add logging
 Update documentation
 Optimize algorithm
+Update dependencies
