@@ -15,3 +15,4 @@ Add logging
 Update documentation
 Optimize algorithm
 Update dependencies
+Refactor database queries
