@@ -24,3 +24,4 @@ Improve error handling
 Update API endpoint
 Improve error handling
 Update dependencies
+Update documentation
