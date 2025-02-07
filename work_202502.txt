@@ -2,3 +2,4 @@ Update configuration
 Update documentation
 Improve performance
 Add new feature
+Update documentation
