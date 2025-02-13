@@ -5,3 +5,4 @@ Add new feature
 Update documentation
 Add new feature
 Add tests
+Add logging
