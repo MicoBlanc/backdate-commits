@@ -9,3 +9,4 @@ Add logging
 Update API endpoint
 Add tests
 Fix bug in authentication
+Add logging
