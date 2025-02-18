@@ -7,3 +7,4 @@ Add new feature
 Add tests
 Add logging
 Update API endpoint
+Add tests
