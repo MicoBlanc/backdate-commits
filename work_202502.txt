@@ -12,3 +12,4 @@ Fix bug in authentication
 Add logging
 Improve error handling
 Improve error handling
+Update configuration
