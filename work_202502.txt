@@ -13,3 +13,4 @@ Add logging
 Improve error handling
 Improve error handling
 Update configuration
+Add tests
