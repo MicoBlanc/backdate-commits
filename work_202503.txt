@@ -1,3 +1,4 @@
 Add logging
 Improve performance
 Fix typo
+Add new feature
