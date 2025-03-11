@@ -5,3 +5,4 @@ Add new feature
 Fix typo
 Add logging
 Update API endpoint
+Update configuration
