@@ -7,3 +7,4 @@ Add logging
 Update API endpoint
 Update configuration
 Add new feature
+Improve error handling
