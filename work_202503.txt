@@ -15,3 +15,4 @@ Refactor database queries
 Fix edge case
 Add logging
 Update dependencies
+Update documentation
