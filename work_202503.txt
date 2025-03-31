@@ -18,3 +18,4 @@ Update dependencies
 Update documentation
 Improve error handling
 Add tests
+Update documentation
