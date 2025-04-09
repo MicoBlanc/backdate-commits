@@ -1,3 +1,4 @@
 Add logging
 Update API endpoint
 Add logging
+Fix typo
