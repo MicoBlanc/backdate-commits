@@ -3,3 +3,4 @@ Update API endpoint
 Add logging
 Fix typo
 Update dependencies
+Fix bug in authentication
