@@ -7,3 +7,4 @@ Fix bug in authentication
 Fix typo
 Add tests
 Update dependencies
+Add logging
