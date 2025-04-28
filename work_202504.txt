@@ -9,3 +9,4 @@ Add tests
 Update dependencies
 Add logging
 Add tests
+Improve performance
