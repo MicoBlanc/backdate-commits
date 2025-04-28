@@ -11,3 +11,4 @@ Add logging
 Add tests
 Improve performance
 Update documentation
+Add tests
