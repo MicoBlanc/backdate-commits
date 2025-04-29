@@ -12,3 +12,4 @@ Add tests
 Improve performance
 Update documentation
 Add tests
+Update configuration
