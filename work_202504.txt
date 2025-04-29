@@ -13,3 +13,4 @@ Improve performance
 Update documentation
 Add tests
 Update configuration
+Fix typo
