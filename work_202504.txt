@@ -15,3 +15,4 @@ Add tests
 Update configuration
 Fix typo
 Update API endpoint
+Fix typo
