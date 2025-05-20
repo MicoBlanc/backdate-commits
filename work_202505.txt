@@ -1,3 +1,4 @@
 Add logging
 Improve performance
 Refactor database queries
+Clean up code
