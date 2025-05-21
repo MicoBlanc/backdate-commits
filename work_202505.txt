@@ -3,3 +3,4 @@ Improve performance
 Refactor database queries
 Clean up code
 Add new feature
+Add tests
