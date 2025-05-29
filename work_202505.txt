@@ -6,3 +6,4 @@ Add new feature
 Add tests
 Improve performance
 Optimize algorithm
+Clean up code
