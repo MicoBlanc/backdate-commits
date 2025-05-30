@@ -7,3 +7,4 @@ Add tests
 Improve performance
 Optimize algorithm
 Clean up code
+Add tests
