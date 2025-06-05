@@ -2,3 +2,4 @@ Fix edge case
 Update API endpoint
 Add tests
 Update documentation
+Improve error handling
