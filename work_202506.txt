@@ -5,3 +5,4 @@ Update documentation
 Improve error handling
 Update dependencies
 Fix typo
+Add tests
