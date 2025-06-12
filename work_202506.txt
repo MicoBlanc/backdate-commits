@@ -8,3 +8,4 @@ Fix typo
 Add tests
 Refactor database queries
 Update dependencies
+Refactor database queries
