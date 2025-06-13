@@ -11,3 +11,4 @@ Update dependencies
 Refactor database queries
 Add tests
 Update configuration
+Add new feature
