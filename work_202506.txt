@@ -13,3 +13,4 @@ Add tests
 Update configuration
 Add new feature
 Update documentation
+Update dependencies
