@@ -18,3 +18,4 @@ Update API endpoint
 Fix edge case
 Add logging
 Clean up code
+Add tests
