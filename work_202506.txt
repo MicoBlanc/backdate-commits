@@ -20,3 +20,4 @@ Add logging
 Clean up code
 Add tests
 Improve performance
+Fix bug in authentication
