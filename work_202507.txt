@@ -4,3 +4,4 @@ Add new feature
 Add tests
 Refactor database queries
 Update configuration
+Add tests
