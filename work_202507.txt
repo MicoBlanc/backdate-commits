@@ -2,3 +2,4 @@ Update dependencies
 Optimize algorithm
 Add new feature
 Add tests
+Refactor database queries
