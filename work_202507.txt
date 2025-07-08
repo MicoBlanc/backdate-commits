@@ -7,3 +7,4 @@ Update configuration
 Add tests
 Update API endpoint
 Fix bug in authentication
+Fix typo
