@@ -10,3 +10,4 @@ Fix bug in authentication
 Fix typo
 Fix edge case
 Update dependencies
+Refactor database queries
