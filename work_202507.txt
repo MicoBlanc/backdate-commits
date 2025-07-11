@@ -14,3 +14,4 @@ Refactor database queries
 Add logging
 Update configuration
 Update API endpoint
+Improve performance
