@@ -13,3 +13,4 @@ Update dependencies
 Refactor database queries
 Add logging
 Update configuration
+Update API endpoint
