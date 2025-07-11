@@ -12,3 +12,4 @@ Fix edge case
 Update dependencies
 Refactor database queries
 Add logging
+Update configuration
