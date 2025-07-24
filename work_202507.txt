@@ -19,3 +19,4 @@ Update dependencies
 Update dependencies
 Update configuration
 Improve error handling
+Update API endpoint
