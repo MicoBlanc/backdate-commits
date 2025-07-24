@@ -18,3 +18,4 @@ Improve performance
 Update dependencies
 Update dependencies
 Update configuration
+Improve error handling
