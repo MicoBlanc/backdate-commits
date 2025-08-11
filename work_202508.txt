@@ -2,3 +2,4 @@ Fix typo
 Fix bug in authentication
 Update documentation
 Add logging
+Fix bug in authentication
