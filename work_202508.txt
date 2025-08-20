@@ -5,3 +5,4 @@ Add logging
 Fix bug in authentication
 Improve performance
 Fix edge case
+Update API endpoint
