@@ -8,3 +8,4 @@ Fix edge case
 Update API endpoint
 Update API endpoint
 Update documentation
+Improve performance
