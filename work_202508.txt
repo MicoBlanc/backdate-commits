@@ -10,3 +10,4 @@ Update API endpoint
 Update documentation
 Improve performance
 Add tests
+Update configuration
