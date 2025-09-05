@@ -2,3 +2,4 @@ Refactor database queries
 Update API endpoint
 Update configuration
 Fix bug in authentication
+Optimize algorithm
