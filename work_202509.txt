@@ -5,3 +5,4 @@ Fix bug in authentication
 Optimize algorithm
 Optimize algorithm
 Add logging
+Update dependencies
