@@ -7,3 +7,4 @@ Optimize algorithm
 Add logging
 Update dependencies
 Refactor database queries
+Fix bug in authentication
