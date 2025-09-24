@@ -13,3 +13,4 @@ Update configuration
 Update API endpoint
 Fix bug in authentication
 Improve performance
+Fix bug in authentication
