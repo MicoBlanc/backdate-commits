@@ -15,3 +15,4 @@ Fix bug in authentication
 Improve performance
 Fix bug in authentication
 Update dependencies
+Clean up code
