@@ -16,3 +16,4 @@ Improve performance
 Fix bug in authentication
 Update dependencies
 Clean up code
+Update API endpoint
