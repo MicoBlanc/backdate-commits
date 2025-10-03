@@ -1,2 +1,3 @@
 Update configuration
 Update documentation
+Optimize algorithm
