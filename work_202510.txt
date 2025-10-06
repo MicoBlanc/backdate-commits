@@ -1,3 +1,4 @@
 Update configuration
 Update documentation
 Optimize algorithm
+Optimize algorithm
