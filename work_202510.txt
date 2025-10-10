@@ -4,3 +4,4 @@ Optimize algorithm
 Optimize algorithm
 Clean up code
 Clean up code
+Add tests
