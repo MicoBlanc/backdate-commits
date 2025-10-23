@@ -6,3 +6,4 @@ Clean up code
 Clean up code
 Add tests
 Update documentation
+Fix typo
