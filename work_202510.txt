@@ -9,3 +9,4 @@ Update documentation
 Fix typo
 Clean up code
 Optimize algorithm
+Update documentation
