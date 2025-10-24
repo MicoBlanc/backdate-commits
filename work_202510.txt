@@ -10,3 +10,4 @@ Fix typo
 Clean up code
 Optimize algorithm
 Update documentation
+Fix bug in authentication
