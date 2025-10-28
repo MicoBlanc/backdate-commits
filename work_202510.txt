@@ -12,3 +12,4 @@ Optimize algorithm
 Update documentation
 Fix bug in authentication
 Fix bug in authentication
+Clean up code
