@@ -1,3 +1,4 @@
 Refactor database queries
 Add logging
 Update dependencies
+Add logging
