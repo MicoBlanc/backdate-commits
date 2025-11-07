@@ -3,3 +3,4 @@ Add logging
 Update dependencies
 Add logging
 Optimize algorithm
+Clean up code
