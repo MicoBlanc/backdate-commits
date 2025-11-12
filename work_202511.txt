@@ -6,3 +6,4 @@ Optimize algorithm
 Clean up code
 Fix typo
 Fix bug in authentication
+Add logging
