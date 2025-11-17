@@ -12,3 +12,4 @@ Fix edge case
 Update documentation
 Add logging
 Fix edge case
+Update documentation
