@@ -9,3 +9,4 @@ Fix bug in authentication
 Add logging
 Update dependencies
 Fix edge case
+Update documentation
