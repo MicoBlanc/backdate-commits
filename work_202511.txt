@@ -10,3 +10,4 @@ Add logging
 Update dependencies
 Fix edge case
 Update documentation
+Add logging
