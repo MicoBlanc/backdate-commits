@@ -14,3 +14,4 @@ Add logging
 Fix edge case
 Update documentation
 Optimize algorithm
+Update configuration
