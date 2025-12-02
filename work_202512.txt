@@ -1,1 +1,2 @@
 Fix edge case
+Improve error handling
