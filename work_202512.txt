@@ -1,2 +1,3 @@
 Fix edge case
 Improve error handling
+Add logging
