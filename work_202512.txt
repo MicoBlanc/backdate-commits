@@ -3,3 +3,4 @@ Improve error handling
 Add logging
 Clean up code
 Refactor database queries
+Add logging
