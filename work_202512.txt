@@ -4,3 +4,4 @@ Add logging
 Clean up code
 Refactor database queries
 Add logging
+Add new feature
