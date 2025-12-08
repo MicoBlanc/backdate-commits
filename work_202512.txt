@@ -5,3 +5,4 @@ Clean up code
 Refactor database queries
 Add logging
 Add new feature
+Update dependencies
