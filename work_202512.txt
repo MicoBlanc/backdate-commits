@@ -7,3 +7,4 @@ Add logging
 Add new feature
 Update dependencies
 Update dependencies
+Fix typo
