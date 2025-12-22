@@ -9,3 +9,4 @@ Update dependencies
 Update dependencies
 Fix typo
 Improve error handling
+Add new feature
